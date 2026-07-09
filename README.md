@@ -1,15 +1,16 @@
 # BM-Python-Data-Science-Exercises
-Practical exercises and scripts developed during the IBM 'Python for Data Science, AI &amp; Development' course. Focus on data manipulation, NumPy and Pandas for biotechnological applications.
-This archive collects my learning path in Python, aimed at the analysis of biological and clinical data.
 
-Consolidate the basics of programming in Python (Types, Lists, Loops).
+Practical exercises and scripts developed during the IBM 'Python for Data Science, AI & Development' course. This repository tracks my learning path in Python, focusing on data manipulation, NumPy, and Pandas applied to medical, genomic, and clinical datasets.
 
-Learn the use of Pandas and NumPy libraries for managing complex datasets.
+## 🎯 Strategic Objectives
+*   **Academic:** Building computational skills to support my upcoming Bachelor's Thesis in **Digital Pathology**, bridgeable with Bioinformatic analysis.
+*   **Career:** Preparing a solid technical portfolio for a future career as a **Bioinformatician** in the Basel pharmaceutical hub.
 
-Prepare the technical skills for the thesis in Digital Pathology and for future Data Management roles.
+## 📁 Repository Structure
 
-Module 1 - Python Basics: Data types, expressions and variables (In progress).
+*   📂 **`Modulo_01_Basics/`**: Python data types, expressions, variables, and basic string operations.
+*   📂 **`Modulo_02_Data_Structures/`**: Working with Lists, Tuples, and Dictionaries (including custom scripts for codon-to-aminoacid translation). *(In Progress)*
+*   📂 **`Modulo_04_Data_Analysis/`**: Advanced data manipulation, database cleaning, and filtering using **Pandas** and **NumPy**. *(Upcoming)*
 
-Module 2 - Data Structures: Lists, Tuples, Dictionaries.
-
-Module 4 - Data Analysis: Using Pandas for database cleaning
+## 🔗 Connect & Resources
+*   **Course Certification:** [IBM Python for Data Science, AI & Development on Coursera](https://www.coursera.org/learn/python-for-applied-data-science-ai)
