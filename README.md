@@ -1,4 +1,4 @@
-# BM-Python-Data-Science-Exercises
+# IBM-Python-Data-Science-Exercises
 Practical exercises and scripts developed during the IBM 'Python for Data Science, AI &amp; Development' course. Focus on data manipulation, NumPy and Pandas for biotechnological applications.
 This archive collects my learning path in Python, aimed at the analysis of biological and clinical data.
 
