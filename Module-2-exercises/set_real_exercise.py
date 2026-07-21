@@ -15,7 +15,7 @@ set_A = set(sample_A)
 set_B = set(sample_B)
 
 #Intersection of sample_A and sample_B
-common_genes = set_set_A
+common_genes = set_A.intersection(set_B)
 print("common genes in sample A and sample B:", common_genes)
 
 #difference of sample_A and sample_B
